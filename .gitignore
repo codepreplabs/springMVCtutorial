@@ -36,3 +36,6 @@ buildNumber.properties
 # Maven
 log/
 target/
+02bootMVC/.mvn/
+02bootMVC/mvnw
+02bootMVC/mvnw.cmd
