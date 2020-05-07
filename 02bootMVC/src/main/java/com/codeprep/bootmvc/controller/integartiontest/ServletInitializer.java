@@ -1,4 +1,4 @@
-package com.codeprep.bootmvc;
+package com.codeprep.bootmvc.controller.integartiontest;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
