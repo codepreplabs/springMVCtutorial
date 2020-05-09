@@ -1,5 +1,6 @@
-package com.codeprep.bootmvc.controller.integartiontest.controller.unittest;
+package com.codeprep.bootmvc.controller.unittest;
 
+import com.codeprep.bootmvc.controller.HelloController;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

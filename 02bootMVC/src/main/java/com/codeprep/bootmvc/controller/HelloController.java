@@ -1,4 +1,4 @@
-package com.codeprep.bootmvc.controller.integartiontest.controller.unittest;
+package com.codeprep.bootmvc.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
